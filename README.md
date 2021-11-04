@@ -14,3 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+#Dice Game
+
+![Screenshot_1636048806](https://user-images.githubusercontent.com/91720201/140394402-761db855-ac00-4088-84fb-ffe855c9aa7b.png)
